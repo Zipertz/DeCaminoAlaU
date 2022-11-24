@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 64d59fb979ab0d24292d62fd8edf4fea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 28bc779cf35e4132b1317c7955bac809-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 23
+        width: 111
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048de4d9a90d1784fa8d9adbefb954e4
+      internalID: -1645276697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28bc779cf35e4132b1317c7955bac809-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 23
+        width: 111
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d32359d1841f14384d501eb1ed8cc6
+      internalID: -1921603331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28bc779cf35e4132b1317c7955bac809-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 23
+        width: 111
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cf409850292e3418e0b0f82a1548a7
+      internalID: 1337769800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28bc779cf35e4132b1317c7955bac809-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 22
+        width: 132
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b59662baf68774698e212f1402f463
+      internalID: 31574555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_90: 763601745
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_46: 481696948
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_42: 665011504
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_73: -25188280
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_0: -585639707
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_80: 63886181
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_76: -553456055
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_84: -1921603331
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_92: 1734853560
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_81: -1645276697
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_8: -1309455347
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_85: 1612414070
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_94: 1944258402
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_91: 1337769800
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_11: -913637771
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_20: 476854160
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_43: -387040256
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_65: 837150931
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_33: 968167636
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_86: -389492054
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_24: 1167529533
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_13: -765706112
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_88: -1140230948
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_23: -2018546114
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_5: -1267576518
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_74: 247622011
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_71: 289892317
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_89: -1547211210
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_10: -1225169489
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_6: -1158869193
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_47: 977781942
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_70: -864990273
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_30: -301291251
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_25: -1201830625
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_63: -1094056859
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_67: -11621423
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_79: 2006560580
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_62: -622636686
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_7: 1104661516
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_53: 234714449
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_61: 1945558252
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_58: -514262498
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_69: -76140858
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_72: 2002388199
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_29: -170927606
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_52: 349771493
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_50: 1963973593
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_35: 254142007
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_34: 1061557446
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_41: 482474372
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_78: 225370102
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_54: -2009763027
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_51: 518188634
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_87: 882615944
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_28: 622816134
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_32: 307845746
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_39: -499340636
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_16: -661335800
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_48: -1877963123
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_93: 31574555
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_22: 1275089592
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_55: -5940322
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_45: -829859726
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_37: -1812043321
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_57: 1454419733
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_31: -141670930
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_2: 484662851
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_15: 570258756
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_64: -687981409
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_1: 939306666
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_68: -1767346659
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_83: -1660133237
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_9: 249868646
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_66: 1283321599
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_12: 1184686213
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_4: -750434417
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_18: 1638327582
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_26: -1099637127
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_36: -1269306676
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_3: 211388260
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_60: 2092401639
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_14: -784894329
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_75: -2030843899
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_38: 1380463355
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_82: 1529620517
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_21: -1424555505
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_49: 541682796
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_77: 318908406
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_27: -1571537701
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_44: -1655598127
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_40: 267131955
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_17: -1398328725
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_59: 74652187
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_19: -380460763
+      28bc779cf35e4132b1317c7955bac809-removebg-preview_56: -791017544
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

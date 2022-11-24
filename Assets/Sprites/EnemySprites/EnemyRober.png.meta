@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: dd8c765723ef74bc6992cadb2f63286f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_0"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 319
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0322084858a4c2f847450153a46f4d
+      internalID: 1220212251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_1"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 319
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ccf86f54a3d479ba5b80eeb81e0c67
+      internalID: -682232992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_2"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 319
+        width: 74
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ea012768944f229bf88a0d429a1aa
+      internalID: -629210019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_3"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 319
+        width: 74
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182d0356598bf4b29ac04cddae5cf25c
+      internalID: -1833073993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_4"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 319
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1898819d6b2c4b588c7b98f1f15e71d
+      internalID: 1423149360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_5"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 172
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cbb5637cf1140289d2de81ebdb77c9
+      internalID: 897047366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_6"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 174
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f09e00eb34495094e85e3a7173b40
+      internalID: 1852380452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_7"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 174
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d123dac7c3754c60a1463bc8e976e54
+      internalID: 45525124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_8"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 173
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3727b32713426481fa1543fd2f28bea3
+      internalID: 183394815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_9"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 174
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d2593cd31f42fe8c86590c69afe5d
+      internalID: 383626150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_10"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 175
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0633cd2e1d94e4720b5d36972c516a09
+      internalID: -122465621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_11"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 22
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b27b00388e94c1cadc9f64ef196acf
+      internalID: -1953389799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_12"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 22
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b0bb7100299407dbeaa173b4932a6e
+      internalID: 815405977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_13"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 22
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5abfe2ba108458db2c9198c86c1513
+      internalID: 556845894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_14"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 22
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6205c517a036447b6882b11558b8e154
+      internalID: 172878447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_15"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 22
+        width: 113
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dd5ce901f1a45f992e9c5c22b2f962
+      internalID: 2139708042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_10": -122465621
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_8": 183394815
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_11": -1953389799
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_15": 2139708042
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_5": 897047366
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_2": -629210019
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_4": 1423149360
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_13": 556845894
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_14": 172878447
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_3": -1833073993
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_7": 45525124
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_9": 383626150
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_6": 1852380452
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_1": -682232992
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_0": 1220212251
+      "Capture_d_e\u0301cran_2017-06-19_a\u0300_13.33.34-removebg-preview_12": 815405977
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

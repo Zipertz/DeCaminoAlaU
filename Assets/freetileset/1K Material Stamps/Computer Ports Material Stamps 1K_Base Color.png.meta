@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 59dba4925291a8442b2bcdb3f5770f04
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 784
+        width: 478
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2371099a2192d647907b063b4392269
+      internalID: -1318974658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 879
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa6fb64de7a374b951cb00f27582b7
+      internalID: -1066844163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 879
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cadd9eb615fa6341b2e2053670006e5
+      internalID: 1251144533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 879
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffca1dac89f79541bb5ecc27a6099d6
+      internalID: 1363745562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 745
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd93ec5e8c097d042b0f85fe64203fb4
+      internalID: 346713679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 745
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec35bf885452ef04b90eaf3f934d02ca
+      internalID: -1008020699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 745
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc3868b988ff14cb70ef5c94e1070e
+      internalID: -821031486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 745
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf590d09321de4187763a09603b67a
+      internalID: 165744872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 745
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e338e66026ec64f879703a10f25c07
+      internalID: 1181436901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 592
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7b82783d104f0458f8a1702d72d604
+      internalID: 1918449635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_10
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 592
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505f5076ee8e9a48b0e9ffc2b524fff
+      internalID: 2012071710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 592
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0bfdb27bc659c40b01850cb8a02915
+      internalID: 2102548846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 592
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e655c3ca28444ab40c20691481a2a
+      internalID: -1816129054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_13
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 592
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82033944896b4534ba5124cde28c3ab0
+      internalID: -917088495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_14
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 407
+        width: 556
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4553d1a1732ffef499a910b6a22eab65
+      internalID: -1996062116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 276
+        width: 136
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13c06173989fdd4fbb4555dc728ae9d
+      internalID: 1796370998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 276
+        width: 136
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d8b5aa10c8fd04f9f86b7604c1e126
+      internalID: -643922041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 252
+        width: 314
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255e529b1aeed104194c9941a62ce612
+      internalID: 1269293548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 116
+        width: 141
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b28c13444697418ce5569b806ed70
+      internalID: -778127177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 94
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3170fe3d8906fdd4ea3b0a74f6a8f75b
+      internalID: -1947741370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_20
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 91
+        width: 314
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d01ff42f076514f98b265b25137f69
+      internalID: 1230814622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer Ports Material Stamps 1K_Base Color_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 29
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0174c32190ca4fa8f28fc22690a12
+      internalID: -1305748653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Computer Ports Material Stamps 1K_Base Color_5: -1008020699
+      Computer Ports Material Stamps 1K_Base Color_7: 165744872
+      Computer Ports Material Stamps 1K_Base Color_11: 2102548846
+      Computer Ports Material Stamps 1K_Base Color_19: -1947741370
+      Computer Ports Material Stamps 1K_Base Color_9: 1918449635
+      Computer Ports Material Stamps 1K_Base Color_21: -1305748653
+      Computer Ports Material Stamps 1K_Base Color_2: 1251144533
+      Computer Ports Material Stamps 1K_Base Color_0: -1318974658
+      Computer Ports Material Stamps 1K_Base Color_10: 2012071710
+      Computer Ports Material Stamps 1K_Base Color_14: -1996062116
+      Computer Ports Material Stamps 1K_Base Color_15: 1796370998
+      Computer Ports Material Stamps 1K_Base Color_20: 1230814622
+      Computer Ports Material Stamps 1K_Base Color_4: 346713679
+      Computer Ports Material Stamps 1K_Base Color_8: 1181436901
+      Computer Ports Material Stamps 1K_Base Color_6: -821031486
+      Computer Ports Material Stamps 1K_Base Color_12: -1816129054
+      Computer Ports Material Stamps 1K_Base Color_13: -917088495
+      Computer Ports Material Stamps 1K_Base Color_3: 1363745562
+      Computer Ports Material Stamps 1K_Base Color_18: -778127177
+      Computer Ports Material Stamps 1K_Base Color_17: 1269293548
+      Computer Ports Material Stamps 1K_Base Color_16: -643922041
+      Computer Ports Material Stamps 1K_Base Color_1: -1066844163
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
